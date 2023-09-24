@@ -4,4 +4,3 @@ if number >=5.50:
     print("Excellent!")
 else:
     exit()
-    
